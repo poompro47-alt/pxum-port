@@ -119,7 +119,7 @@ const Page = () => {
               <div className="relative h-[48vh] w-auto sm:h-[52vh] md:h-[75%] lg:h-[78%]">
                 <Image
                   src="/portrait.png"
-                  alt="My portrait"
+                  alt="My portraits"
                   width={420}
                   height={700}
                   priority
